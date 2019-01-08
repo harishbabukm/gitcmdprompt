@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE90-4DA4
+
+ Directory of C:\Users\CBT\Desktop\Git
+
+08-01-2019  03:25 PM    <DIR>          .
+08-01-2019  03:25 PM    <DIR>          ..
+08-01-2019  03:25 PM                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,656,678,912 bytes free
